@@ -1,1 +1,2 @@
-Git clone is used for local repository.
+Git clone is used for local repository .
+added new change we do git pull.
